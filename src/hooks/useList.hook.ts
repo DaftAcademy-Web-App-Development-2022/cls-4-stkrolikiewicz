@@ -21,3 +21,5 @@ export const useList = ({ limit, ...config }: Props) => {
         isLoading,
     };
 };
+
+export default useList;
